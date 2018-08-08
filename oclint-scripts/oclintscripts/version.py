@@ -34,7 +34,7 @@ def llvm_master_branch():
     return 'trunk'
 
 def llvm_latest_release_branch():
-    return 'tags/RELEASE_501/final'
+    return 'tags/RELEASE_600/final'
 
 def countly_cpp_tag():
     return '17.10'
